@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="Retention Strategies at OuterBox" id="index">
+
+    <section-starting-page>
+        <title>Retention Strategies Overview</title>
+        <description>
+            Welcome to OuterBox's comprehensive guide on retention strategies. This section is dedicated to empowering our team and enhancing client relationships through innovative retention initiatives. Explore our curated insights into employee development and client engagement to drive satisfaction and loyalty.
+        </description>
+
+        <spotlight>
+            <a href="career-development.md" type="account" summary="Dive into our career and professional development program designed to foster employee growth and satisfaction.">Employee Retention Initiatives</a>
+            <a href="predictive-analytics.md" type="search" summary="Discover how we use predictive analytics and AI to enhance client engagement and satisfaction.">Client Retention Strategies</a>
+        </spotlight>
+
+        <primary>
+            <title>Employee Retention Ideas</title>
+            <a href="career-development.md">Comprehensive Career Development</a>
+            <a href="recognition-rewards.md" summary="Recognizing and rewarding our team's hard work and achievements.">Recognition & Rewards</a>
+            <a href="annual-retreats.md">Annual "Recharge & Reflect" Retreats</a>
+            <a href="wellness-champion.md" summary="Promoting wellness and balance within our team.">Wellness Champions Program</a>
+            <a href="employee-feedback.md">Enhanced Employee Feedback Strategy</a>
+        </primary>
+
+        <secondary>
+            <title>Client Retention Innovations</title>
+            <a href="predictive-analytics.md">Leveraging Predictive Analytics</a>
+            <a href="client-advisory.md" summary="Building stronger relationships through client advisory boards.">Client Advisory Board</a>
+            <a href="sentiment-analysis.md">Advanced Sentiment Analysis</a>
+        </secondary>
+    </section-starting-page>
+</topic>

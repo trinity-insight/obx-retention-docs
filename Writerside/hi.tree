@@ -1,0 +1,34 @@
+<instance-profile id="hi"
+                  name="OuterBox Retention Ideas"
+                  start-page="index.topic">
+    <toc-element id="index-page"
+                 topic="index.topic"
+                 toc-title="Retention Strategies Overview">
+        <include from="employee-retention.md" element-id="career-dev"/>
+        <include from="client-retention.md" element-id="predictive-analytics"/>
+    </toc-element>
+    <toc-element id="employee-retention"
+                 toc-title="Employee Retention Ideas"
+                 sort-children="ascending">
+        <toc-element id="career-dev"
+                     topic="career-development.md"/>
+        <toc-element id="recognition-rewards"
+                     topic="recognition-rewards.md"/>
+        <toc-element id="annual-retreats"
+                     topic="annual-retreats.md"/>
+        <toc-element id="wellness-champion"
+                     topic="wellness-champion.md"/>
+        <toc-element id="employee-feedback"
+                     topic="employee-feedback.md"/>
+    </toc-element>
+    <toc-element id="client-retention"
+                 toc-title="Client Retention Ideas"
+                 sort-children="ascending">
+        <toc-element id="predictive-analytics"
+                     topic="predictive-analytics.md"/>
+        <toc-element id="client-advisory"
+                     topic="client-advisory.md"/>
+        <toc-element id="sentiment-analysis"
+                     topic="sentiment-analysis.md"/>
+    </toc-element>
+</instance-profile>
