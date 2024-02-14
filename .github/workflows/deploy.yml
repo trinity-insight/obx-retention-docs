@@ -37,11 +37,17 @@ jobs:
           retention-days: 7
 
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
       - name: Download artifact
         uses: actions/download-artifact@v3
         with:
