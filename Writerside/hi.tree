@@ -1,11 +1,9 @@
 <instance-profile id="hi"
-                  name="OuterBox Retention Ideas"
+                  name="OuterBox Retention Strategy Ideas"
                   start-page="index.topic">
     <toc-element id="index-page"
                  topic="index.topic"
                  toc-title="Retention Strategies Overview">
-        <include from="employee-retention.md" element-id="career-dev"/>
-        <include from="client-retention.md" element-id="predictive-analytics"/>
     </toc-element>
     <toc-element id="employee-retention"
                  toc-title="Employee Retention Ideas"
