@@ -6,30 +6,39 @@
        title="Retention Strategies at OuterBox" id="index">
 
     <section-starting-page>
-        <title>Retention Strategies Overview</title>
+        <title>OuterBox Retention Brainstorming</title>
         <description>
-            Welcome to OuterBox's comprehensive guide on retention strategies. This section is dedicated to empowering our team and enhancing client relationships through innovative retention initiatives. Explore our curated insights into employee development and client engagement to drive satisfaction and loyalty.
+            Welcome to OuterBox's brainstorming documentation on retention strategies. Explore our insights into
+            employee development and client engagement to drive satisfaction and loyalty.
         </description>
 
         <spotlight>
-            <a href="career-development.md" type="account" summary="Explore our dynamic career development programs tailored to boost employee growth and satisfaction, fostering a vibrant and productive workplace culture.">Employee Retention Initiatives</a>
-            <a href="predictive-analytics.md" type="search" summary="Unveil the power of predictive analytics and AI in sculpting bespoke client engagement strategies, aimed at elevating satisfaction and cementing loyalty.">Client Retention Strategies</a>
+            <a href="career-development.md" type="account"
+               summary="Explore our dynamic career development programs tailored to boost employee growth and satisfaction, fostering a vibrant and productive workplace culture.">All
+                Employee Retention Strategies</a>
+            <a href="predictive-analytics.md" type="search"
+               summary="Unveil the power of predictive analytics and AI in sculpting bespoke client engagement strategies, aimed at elevating satisfaction and cementing loyalty.">All
+                Client Retention Strategies</a>
         </spotlight>
 
         <primary>
-            <title>Employee Retention Ideas</title>
-            <a href="career-development.md" summary="Our comprehensive career development offerings are designed to empower employees with growth opportunities, ensuring a path to personal and professional fulfillment.">Comprehensive Career Development</a>
-            <a href="recognition-rewards.md" summary="Celebrating our team's achievements with recognition and rewards, reinforcing a culture of appreciation and motivation.">Recognition and Rewards</a>
-            <a href="annual-retreats.md" summary="Our Annual 'Recharge and Reflect' Retreats provide a serene backdrop for team rejuvenation and strategic alignment, enhancing team spirit and focus.">Annual "Recharge and Reflect" Retreats</a>
-            <a href="wellness-champion.md" summary="The Wellness Champions Program promotes a holistic approach to employee well-being, fostering a supportive and balanced work environment.">Wellness Champions Program</a>
-            <a href="employee-feedback.md" summary="Our Enhanced Employee Feedback Strategy ensures every voice is heard, facilitating continuous improvement and employee satisfaction.">Enhanced Employee Feedback Strategy</a>
+            <title>Employee Retention Highlights</title>
+            <a href="career-development.md"
+               summary="Our comprehensive career development offerings are designed to empower employees with growth opportunities, ensuring a path to personal and professional fulfillment.">Comprehensive
+                Career Development</a>
+            <a href="wellness-champion.md"
+               summary="The Wellness Champions Program promotes a holistic approach to employee well-being, fostering a supportive and balanced work environment.">Wellness
+                Champions Program</a>
         </primary>
 
         <secondary>
-            <title>Client Retention Innovations</title>
-            <a href="predictive-analytics.md" summary="Harnessing the power of predictive analytics to anticipate client needs and personalize engagement, driving deeper connections and loyalty.">Leveraging Predictive Analytics</a>
-            <a href="client-advisory.md" summary="The Client Advisory Board fosters strong partnerships through direct client involvement, enriching our strategies with valuable insights.">Client Advisory Board</a>
-            <a href="sentiment-analysis.md" summary="Utilizing advanced sentiment analysis tools to gauge client sentiments, enabling proactive adjustments for enhanced satisfaction.">Advanced Sentiment Analysis</a>
+            <title>Client Retention Highlights</title>
+            <a href="client-advisory.md"
+               summary="The Client Advisory Board fosters strong partnerships through direct client involvement, enriching our strategies with valuable insights.">Client
+                Advisory Board</a>
+            <a href="sentiment-analysis.md"
+               summary="Utilizing advanced sentiment analysis tools to gauge client sentiments, enabling proactive adjustments for enhanced satisfaction.">Advanced
+                Sentiment Analysis</a>
         </secondary>
     </section-starting-page>
 </topic>
