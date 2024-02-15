@@ -12,7 +12,7 @@ By combining BigQuery's data analysis capabilities with the GPT API's natural la
 
 **Difficulty To Implement**: 6. Integrating these technologies requires technical expertise and a clear understanding of our data infrastructure.
 
-**Human Resources and Time**: Needs data scientists and AI specialists, plus training for account managers. Roughly 5-6.25 months to fully integrate and streamline the processes.
+**Human Resources and Time**: Needs data scientists and AI specialists, plus training for account managers. Roughly 5-6 months to fully integrate and streamline the processes.
 
 ### Predictive Analytics Model Development
 We aim to develop a model within BigQuery that forecasts client behavior and churn risk using historical data. This model would be used to tailor client engagement strategies, enhancing personalization and effectiveness.
@@ -21,7 +21,7 @@ We aim to develop a model within BigQuery that forecasts client behavior and chu
 
 **Difficulty To Implement**: 7. Developing an accurate predictive model involves complex data analysis and continuous refinement.
 
-**Human Resources and Time**: Requires a team of data analysts and developers, with ongoing input from account management. Estimated time frame is about 6-7.5 months to develop and integrate the model.
+**Human Resources and Time**: Requires a team of data analysts and developers, with ongoing input from account management. Estimated time frame is about 6-7 months to develop and integrate the model.
 
 ### Custom Dashboard Creation with Looker
 Creating custom dashboards using Looker to provide a unified view of client accounts is another approach. These dashboards would combine historical and predictive insights for strategic account management.

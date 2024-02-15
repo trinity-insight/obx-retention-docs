@@ -30,7 +30,7 @@ Hosting virtual town halls and interactive Q&A sessions can serve as regular pla
 
 **Difficulty To Implement**: 7. Regular scheduling and ensuring meaningful interaction are complex.
 
-**Human Resources and Time**: Involves coordination by HR and leadership, estimated to take 4.5-5.625 months to establish as a regular part of OuterBox culture.
+**Human Resources and Time**: Involves coordination by HR and leadership, estimated to take 4-6 months to establish as a regular part of OuterBox culture.
 
 ## Expected Outcomes
 The strategy aims to significantly enhance employee engagement by valuing their feedback and acting upon it, thereby improving organizational agility and employee retention. We anticipate this will foster a culture of innovation and mutual respect, contributing positively to OuterBox's reputation as a top employer in the digital marketing industry.

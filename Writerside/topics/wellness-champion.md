@@ -30,7 +30,7 @@ Thinking about creating a peer-recognition program for employees who lead by exa
 
 **Difficulty To Implement**: 4. Establishing criteria and selecting meaningful rewards are key challenges.
 
-**Human Resources and Time**: Managed by HR and wellness champions. Approximately 2-2.5 months to develop and launch.
+**Human Resources and Time**: Managed by HR and wellness champions. Approximately 2-3 months to develop and launch.
 
 ### Program Support and Resources
 Proposing to allocate a budget for wellness program activities and rewards, along with promotional materials to encourage participation. This includes posters, email campaigns, and the use of intranet for announcements, coupled with a feedback mechanism for continuous program improvement.
@@ -39,7 +39,7 @@ Proposing to allocate a budget for wellness program activities and rewards, alon
 
 **Difficulty To Implement**: 3. Requires budget approval and effective communication channels.
 
-**Human Resources and Time**: Needs HR and marketing support. Expected to take about 1-1.25 months for full setup.
+**Human Resources and Time**: Needs HR and marketing support. Expected to take about 1-2 months for full setup.
 
 ## Expected Outcomes
 The envisioned Wellness Champions Program is aimed at fostering a supportive and healthy work environment, expected to lead to increased employee satisfaction and engagement. Anticipated benefits include reduced burnout and stress-related absences, improved productivity, and a stronger sense of community within OuterBox.

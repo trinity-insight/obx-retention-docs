@@ -58,7 +58,7 @@ Introducing a "Client Impact Score" to measure the influence of CAB feedback on 
 
 **Difficulty To Implement**: 3. Integrating this within existing processes is less complex.
 
-**Human Resources and Time**: Execution by the client relations and marketing team, expected to take about 1.5-2 months.
+**Human Resources and Time**: Execution by the client relations and marketing team, expected to take about 1-2 months.
 
 #### Ongoing Engagement
 Ensuring ongoing engagement with CAB members through regular updates and communications is another component of this plan.

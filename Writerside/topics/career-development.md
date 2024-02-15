@@ -12,7 +12,7 @@ Mapping out career pathways within OuterBox involves identifying key skills and 
 
 **Difficulty To Implement**: 6. This requires in-depth analysis and collaboration across departments, adding complexity.
 
-**Human Resources and Time**: Involves HR and department leaders. Expected to take 6-7.5 months for comprehensive mapping and validation.
+**Human Resources and Time**: Involves HR and department leaders. Expected to take 6-7 months for comprehensive mapping and validation.
 
 ### Mentorship and Specialized Coaching
 We are considering pairing team members with mentors and coaches to address skill gaps and foster professional growth. This dual system would match mentors and mentees based on algorithms and manual selection.
@@ -39,7 +39,7 @@ Launching a platform for team members to undertake cross-functional projects and
 
 **Difficulty To Implement**: 8. Coordinating projects across functions is challenging.
 
-**Human Resources and Time**: Coordination by project managers and HR. Expected to take 6-7.5 months to establish a functional system.
+**Human Resources and Time**: Coordination by project managers and HR. Expected to take 6-7 months to establish a functional system.
 
 ### Professional Development Stipend
 Offering a stipend for professional development activities like conferences or courses. This plan supports continuous learning beyond our internal resources.
@@ -48,7 +48,7 @@ Offering a stipend for professional development activities like conferences or c
 
 **Difficulty To Implement**: 4. Straightforward to implement but requires clear guidelines.
 
-**Human Resources and Time**: Managed by HR. Approximately 2-2.5 months to define guidelines and process.
+**Human Resources and Time**: Managed by HR. Approximately 2-2 months to define guidelines and process.
 
 ### Recognition of Learning Achievements
 Incorporating a recognition system for learning and development achievements into our rewards program. This celebrates milestones and contributions.
@@ -57,7 +57,7 @@ Incorporating a recognition system for learning and development achievements int
 
 **Difficulty To Implement**: 3. Easier to integrate into existing systems, with added visibility for achievements.
 
-**Human Resources and Time**: Requires HR and management to execute. Around 1-1.25 months for full integration.
+**Human Resources and Time**: Requires HR and management to execute. Around 1-2 months for full integration.
 
 ## Expected Outcomes
 Implementing these ideas is aimed at enhancing employee engagement and morale, recognizing their growth efforts. Anticipated benefits include higher retention rates, the development of a skilled workforce ready for digital marketing challenges, and establishing OuterBox as an attractive workplace that values professional and personal development.

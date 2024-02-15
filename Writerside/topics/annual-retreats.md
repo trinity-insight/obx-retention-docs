@@ -12,7 +12,7 @@ Choosing locations that offer natural beauty and tranquility, such as mountain r
 
 **Difficulty To Implement**: 5. Finding and booking suitable venues involves logistical considerations and budgeting.
 
-**Human Resources and Time**: Requires a project team including an event planner. Planning and execution could take up to 5-6.25 months.
+**Human Resources and Time**: Requires a project team including an event planner. Planning and execution could take up to 5-6 months.
 
 ### Designing Engaging Activities
 Incorporating team-building exercises, mindfulness sessions, and stress management workshops can strengthen team bonds and promote mental health. Activities like guided hikes and yoga sessions are integral for blending leisure with learning.
@@ -30,7 +30,7 @@ Hosting workshops to improve soft skills such as emotional intelligence, communi
 
 **Difficulty To Implement**: 7. Coordinating with expert facilitators and aligning content with company goals is challenging.
 
-**Human Resources and Time**: Requires HR to work with external trainers. Planning and implementation could stretch to 5-6.25 months.
+**Human Resources and Time**: Requires HR to work with external trainers. Planning and implementation could stretch to 5-6 months.
 
 ### Integrating Leisure and Learning
 Merging leisure activities with learning opportunities allows employees to explore creative outlets and engage in collaborative projects, reinforcing team dynamics and personal growth.
@@ -57,7 +57,7 @@ Organizing the retreat during quieter business periods and involving employees i
 
 **Difficulty To Implement**: 6. Logistical planning and coordination with business schedules require meticulous attention to detail.
 
-**Human Resources and Time**: Task force including project managers and administrative staff. Approximately 6-7.5 months needed for thorough planning.
+**Human Resources and Time**: Task force including project managers and administrative staff. Approximately 6-7 months needed for thorough planning.
 
 ## Expected Outcomes
 Hosting the "Recharge & Reflect" retreats is anticipated to foster a more collaborative and supportive workplace culture at OuterBox. It aims to enhance team cohesion, employee engagement, and creativity, contributing to a workplace where well-being and development are prioritized, thus reinforcing OuterBox's attractiveness as an employer in the competitive digital marketing landscape.
